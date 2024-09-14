@@ -157,13 +157,7 @@ nav button:hover {
     font-size: 2vw;
     text-align: center;
     width: 25%;
-    transition: transform 0.1s ease-in-out;
     z-index: -3;
-}
-
-.Caja:hover {
-transform: translateY(-10px);
-filter: brightness(1.1);
 }
 
 .Datos {
