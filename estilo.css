@@ -78,7 +78,7 @@ nav {
 .InicioInfo h2 {
     text-align: right;
     bottom: 0;
-    transform: translateY(-11.3vw) translateX(46.5vw);
+    transform: translateY(-12.5vw) translateX(46.5vw);
     color: rgb(255, 255, 255);
     border: none;
     width: 50%;
@@ -104,6 +104,7 @@ nav h1 {
     text-align: center;
     margin: 0;
     margin-left: -2vw;
+    margin-bottom: 1.5vw;
     color: #4158A6;
     white-space: nowrap;
     font-size: 7.2vw;
@@ -118,7 +119,7 @@ nav h1:active {
 }
 
 nav button {
-    transform: translateY(1.5vw) translateX(2vw);
+    transform: translateY(1.7vw) translateX(2vw);
     background-color: #4158A6;
     color: rgb(0, 0, 0);
     margin-right: 1vw;
